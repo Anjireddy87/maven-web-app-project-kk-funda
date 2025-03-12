@@ -1,5 +1,3 @@
-///var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven3.9.9/bin
-
 node //by default build-in master node
 {
    def mavenHome=tool name: "Maven3.9.9"
